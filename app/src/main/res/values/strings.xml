@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zadanie1</string>
+    <string name="textview">Zadanie 1</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_tuning">Domyślny strój gitary to EADGBE</string>
+    <string name="q_strings">Tradycyjna gitara elektryczna ma 7 strun</string>
+    <string name="q_invented">Gitare elektryczną wynaleziono w 1984 roku</string>
+    <string name="q_frequency">Domyślna częśtotliwość strojenia gitary to 440hz</string>
+    <string name="correct_anwser">Odpowiedziałeś poprawnie!</string>
+    <string name="incorrect_anwser">Odpowiedziałeś błędnie!</string>
+</resources>
