@@ -45,4 +45,10 @@
             android:text="@string/button_next" />
     </LinearLayout>
 
+    <Button
+        android:id="@+id/podpowiedz_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Podpowiedź" />
+
 </LinearLayout>
